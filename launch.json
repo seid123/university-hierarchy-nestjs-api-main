@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Launch NestJS",
+        "runtimeArgs": [
+          "-r",
+          "ts-node/register"
+        ],
+        "args": [
+          "${workspaceFolder}/src/main.ts"
+        ],
+        "autoAttachChildProcesses": true,
+        "sourceMaps": true,
+        "outFiles": [
+          "${workspaceFolder}/dist/**/*.js"
+        ],
+        "env": {
+          "NODE_ENV": "development"
+        }
+      }
+    ]
+  }
