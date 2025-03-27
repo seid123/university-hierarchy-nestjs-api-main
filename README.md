@@ -217,9 +217,7 @@ Run unit tests for controllers:
 
 ## **Authors**
 
-- @demeke-getaneh
-- @Melese
-- @michaelwondemuu ([GitHub Profile](https://github.com/MichaelWondemuu))
+- @seidmehammed https://github.com/seid123
 
 
 To set up the University Hierarchy API using NestJS, follow these step-by-step instructions:
